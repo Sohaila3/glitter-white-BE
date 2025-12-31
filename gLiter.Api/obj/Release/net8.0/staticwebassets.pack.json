@@ -1,72 +1,456 @@
 {
   "Files": [
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/WhatsApp Image 2025-12-21 at 16.49.16 (1).jpeg",
-      "PackagePath": "staticwebassets/images/gallery/WhatsApp Image 2025-12-21 at 16.49.16 (1).jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/Car3-NnoaEqH0.jpeg",
+      "PackagePath": "staticwebassets/Car3-NnoaEqH0.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/WhatsApp Image 2025-12-21 at 16.49.16.jpeg",
-      "PackagePath": "staticwebassets/images/gallery/WhatsApp Image 2025-12-21 at 16.49.16.jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/Car3.jpeg",
+      "PackagePath": "staticwebassets/Car3.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter1.wpeg.jpeg",
-      "PackagePath": "staticwebassets/images/gallery/g-liter1.wpeg.jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/Car3-NnoaEqH0.jpeg",
+      "PackagePath": "staticwebassets/assets/Car3-NnoaEqH0.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter10.wpeg.jpeg",
-      "PackagePath": "staticwebassets/images/gallery/g-liter10.wpeg.jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/Car3.jpeg",
+      "PackagePath": "staticwebassets/assets/Car3.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter2.wpeg.jpeg",
-      "PackagePath": "staticwebassets/images/gallery/g-liter2.wpeg.jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/bg-texture.jpg",
+      "PackagePath": "staticwebassets/assets/bg-texture.jpg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter3.wpeg.jpeg",
-      "PackagePath": "staticwebassets/images/gallery/g-liter3.wpeg.jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/car main-kMDZ3oCM.jpeg",
+      "PackagePath": "staticwebassets/assets/car main-kMDZ3oCM.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter4.wpeg.jpeg",
-      "PackagePath": "staticwebassets/images/gallery/g-liter4.wpeg.jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/car main.jpeg",
+      "PackagePath": "staticwebassets/assets/car main.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter5.wpeg.jpeg",
-      "PackagePath": "staticwebassets/images/gallery/g-liter5.wpeg.jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/car1.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/car1.wpeg.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter6.wpeg.jpeg",
-      "PackagePath": "staticwebassets/images/gallery/g-liter6.wpeg.jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/car2.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/car2.wpeg.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter7.wpeg.jpeg",
-      "PackagePath": "staticwebassets/images/gallery/g-liter7.wpeg.jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/car4-Cm3v37zp.jpeg",
+      "PackagePath": "staticwebassets/assets/car4-Cm3v37zp.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter8.wpeg.jpeg",
-      "PackagePath": "staticwebassets/images/gallery/g-liter8.wpeg.jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/car4.jpeg",
+      "PackagePath": "staticwebassets/assets/car4.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter9.wpeg.jpeg",
-      "PackagePath": "staticwebassets/images/gallery/g-liter9.wpeg.jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/fuel.jpg",
+      "PackagePath": "staticwebassets/assets/fuel.jpg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/istockphoto-2178867633-612x612.jpg",
-      "PackagePath": "staticwebassets/images/gallery/istockphoto-2178867633-612x612.jpg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter1.wpeg-CO2kmi0k.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter1.wpeg-CO2kmi0k.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/istockphoto-912819604-612x612.jpg",
-      "PackagePath": "staticwebassets/images/gallery/istockphoto-912819604-612x612.jpg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter1.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter1.wpeg.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/map.png",
-      "PackagePath": "staticwebassets/images/gallery/map.png"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter10.wpeg-DThnPC50.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter10.wpeg-DThnPC50.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/real photo.jpeg",
-      "PackagePath": "staticwebassets/images/gallery/real photo.jpeg"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter10.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter10.wpeg.jpeg"
     },
     {
-      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/شعار شركة الجودة العالمية2.png",
-      "PackagePath": "staticwebassets/images/gallery/شعار شركة الجودة العالمية2.png"
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter11.wpeg-CnyVcWC9.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter11.wpeg-CnyVcWC9.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter11.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter11.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter2.wpeg-BN1opRLG.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter2.wpeg-BN1opRLG.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter2.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter2.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter3.wpeg-C7qkLHfn.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter3.wpeg-C7qkLHfn.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter3.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter3.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter4.wpeg-DppljhBc.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter4.wpeg-DppljhBc.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter4.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter4.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter5.wpeg-BIVnoQck.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter5.wpeg-BIVnoQck.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter5.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter5.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter6.wpeg-RBNgvmYe.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter6.wpeg-RBNgvmYe.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter6.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter6.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter7.wpeg-Qk96aowj.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter7.wpeg-Qk96aowj.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter7.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter7.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter8.wpeg-Ck2Xaoce.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter8.wpeg-Ck2Xaoce.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter8.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter8.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter9.wpeg-BiUqpsxG.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter9.wpeg-BiUqpsxG.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/g-liter9.wpeg.jpeg",
+      "PackagePath": "staticwebassets/assets/g-liter9.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/gas.jpg",
+      "PackagePath": "staticwebassets/assets/gas.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/gliter-hero1-BP8VGAx8.jpg",
+      "PackagePath": "staticwebassets/assets/gliter-hero1-BP8VGAx8.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/gliter-hero1.jpg",
+      "PackagePath": "staticwebassets/assets/gliter-hero1.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/gliter-hero2-BEo_s89q.jpg",
+      "PackagePath": "staticwebassets/assets/gliter-hero2-BEo_s89q.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/gliter-hero2.jpg",
+      "PackagePath": "staticwebassets/assets/gliter-hero2.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/gliter-hero3-CpRc-AeD.jpg",
+      "PackagePath": "staticwebassets/assets/gliter-hero3-CpRc-AeD.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/gliter-hero3.jpg",
+      "PackagePath": "staticwebassets/assets/gliter-hero3.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/img.jpg",
+      "PackagePath": "staticwebassets/assets/img.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/index-CB_YEZ8_.css",
+      "PackagePath": "staticwebassets/assets/index-CB_YEZ8_.css"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/index-CBwcLtOy.js",
+      "PackagePath": "staticwebassets/assets/index-CBwcLtOy.js"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/index-PrGyiZ2e.js",
+      "PackagePath": "staticwebassets/assets/index-PrGyiZ2e.js"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/index-ailX7hIo.css",
+      "PackagePath": "staticwebassets/assets/index-ailX7hIo.css"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/logo remove background.png",
+      "PackagePath": "staticwebassets/assets/logo remove background.png"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/logo.wpeg-CUhA_uHJ.png",
+      "PackagePath": "staticwebassets/assets/logo.wpeg-CUhA_uHJ.png"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/logo.wpeg.png",
+      "PackagePath": "staticwebassets/assets/logo.wpeg.png"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/parseApiErrors-C5DgCqaE.js",
+      "PackagePath": "staticwebassets/assets/parseApiErrors-C5DgCqaE.js"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/photo real.jpeg",
+      "PackagePath": "staticwebassets/assets/photo real.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/assets/real photo.jpeg",
+      "PackagePath": "staticwebassets/assets/real photo.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/bg-pattern.png",
+      "PackagePath": "staticwebassets/bg-pattern.png"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/bg-pattern.svg",
+      "PackagePath": "staticwebassets/bg-pattern.svg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/bg-texture.jpg",
+      "PackagePath": "staticwebassets/bg-texture.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/car main-kMDZ3oCM.jpeg",
+      "PackagePath": "staticwebassets/car main-kMDZ3oCM.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/car main.jpeg",
+      "PackagePath": "staticwebassets/car main.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/car1.wpeg.jpeg",
+      "PackagePath": "staticwebassets/car1.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/car2.wpeg.jpeg",
+      "PackagePath": "staticwebassets/car2.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/car4-Cm3v37zp.jpeg",
+      "PackagePath": "staticwebassets/car4-Cm3v37zp.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/car4.jpeg",
+      "PackagePath": "staticwebassets/car4.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/fuel.jpg",
+      "PackagePath": "staticwebassets/fuel.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter1.wpeg-CO2kmi0k.jpeg",
+      "PackagePath": "staticwebassets/g-liter1.wpeg-CO2kmi0k.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter1.wpeg.jpeg",
+      "PackagePath": "staticwebassets/g-liter1.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter10.wpeg-DThnPC50.jpeg",
+      "PackagePath": "staticwebassets/g-liter10.wpeg-DThnPC50.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter10.wpeg.jpeg",
+      "PackagePath": "staticwebassets/g-liter10.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter11.wpeg-CnyVcWC9.jpeg",
+      "PackagePath": "staticwebassets/g-liter11.wpeg-CnyVcWC9.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter11.wpeg.jpeg",
+      "PackagePath": "staticwebassets/g-liter11.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter2.wpeg-BN1opRLG.jpeg",
+      "PackagePath": "staticwebassets/g-liter2.wpeg-BN1opRLG.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter2.wpeg.jpeg",
+      "PackagePath": "staticwebassets/g-liter2.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter3.wpeg-C7qkLHfn.jpeg",
+      "PackagePath": "staticwebassets/g-liter3.wpeg-C7qkLHfn.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter3.wpeg.jpeg",
+      "PackagePath": "staticwebassets/g-liter3.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter4.wpeg-DppljhBc.jpeg",
+      "PackagePath": "staticwebassets/g-liter4.wpeg-DppljhBc.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter4.wpeg.jpeg",
+      "PackagePath": "staticwebassets/g-liter4.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter5.wpeg-BIVnoQck.jpeg",
+      "PackagePath": "staticwebassets/g-liter5.wpeg-BIVnoQck.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter5.wpeg.jpeg",
+      "PackagePath": "staticwebassets/g-liter5.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter6.wpeg-RBNgvmYe.jpeg",
+      "PackagePath": "staticwebassets/g-liter6.wpeg-RBNgvmYe.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter6.wpeg.jpeg",
+      "PackagePath": "staticwebassets/g-liter6.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter7.wpeg-Qk96aowj.jpeg",
+      "PackagePath": "staticwebassets/g-liter7.wpeg-Qk96aowj.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter7.wpeg.jpeg",
+      "PackagePath": "staticwebassets/g-liter7.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter8.wpeg-Ck2Xaoce.jpeg",
+      "PackagePath": "staticwebassets/g-liter8.wpeg-Ck2Xaoce.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter8.wpeg.jpeg",
+      "PackagePath": "staticwebassets/g-liter8.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter9.wpeg-BiUqpsxG.jpeg",
+      "PackagePath": "staticwebassets/g-liter9.wpeg-BiUqpsxG.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/g-liter9.wpeg.jpeg",
+      "PackagePath": "staticwebassets/g-liter9.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/gas.jpg",
+      "PackagePath": "staticwebassets/gas.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/gliter-hero1-BP8VGAx8.jpg",
+      "PackagePath": "staticwebassets/gliter-hero1-BP8VGAx8.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/gliter-hero1.jpg",
+      "PackagePath": "staticwebassets/gliter-hero1.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/gliter-hero2-BEo_s89q.jpg",
+      "PackagePath": "staticwebassets/gliter-hero2-BEo_s89q.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/gliter-hero2.jpg",
+      "PackagePath": "staticwebassets/gliter-hero2.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/gliter-hero3-CpRc-AeD.jpg",
+      "PackagePath": "staticwebassets/gliter-hero3-CpRc-AeD.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/gliter-hero3.jpg",
+      "PackagePath": "staticwebassets/gliter-hero3.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/Car3-NnoaEqH0.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/Car3-NnoaEqH0.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/car1.wpeg.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/car1.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/car4-Cm3v37zp.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/car4-Cm3v37zp.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter10.wpeg-DThnPC50.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/g-liter10.wpeg-DThnPC50.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter2.wpeg-BN1opRLG.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/g-liter2.wpeg-BN1opRLG.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/gliter-hero1.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gliter-hero1.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/gliter-hero2-BEo_s89q.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gliter-hero2-BEo_s89q.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/gliter-hero2.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gliter-hero2.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/gliter-hero3.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gliter-hero3.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/img.jpg",
+      "PackagePath": "staticwebassets/img.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/index-CBwcLtOy.js",
+      "PackagePath": "staticwebassets/index-CBwcLtOy.js"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/index-ailX7hIo.css",
+      "PackagePath": "staticwebassets/index-ailX7hIo.css"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/logo remove background.png",
+      "PackagePath": "staticwebassets/logo remove background.png"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/logo.wpeg-CUhA_uHJ.png",
+      "PackagePath": "staticwebassets/logo.wpeg-CUhA_uHJ.png"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/logo.wpeg.png",
+      "PackagePath": "staticwebassets/logo.wpeg.png"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/map.png",
+      "PackagePath": "staticwebassets/map.png"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/parseApiErrors-C5DgCqaE.js",
+      "PackagePath": "staticwebassets/parseApiErrors-C5DgCqaE.js"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/photo real.jpeg",
+      "PackagePath": "staticwebassets/photo real.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/real photo.jpeg",
+      "PackagePath": "staticwebassets/real photo.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/vite.svg",
+      "PackagePath": "staticwebassets/vite.svg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/web.config",
+      "PackagePath": "staticwebassets/web.config"
     },
     {
       "Id": "obj/Release/net8.0/staticwebassets/msbuild.build.gLiter.Api.props",

@@ -28,3 +28,4 @@
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Service/obj/Debug/net8.0/refint/gLiter.Service.dll
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Service/obj/Debug/net8.0/gLiter.Service.pdb
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Service/obj/Debug/net8.0/ref/gLiter.Service.dll
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Service/obj/Debug/net8.0/gLiter.Service.sourcelink.json

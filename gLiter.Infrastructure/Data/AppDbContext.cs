@@ -25,6 +25,8 @@ public class AppDbContext : DbContext
     public DbSet<TransportRequestImage> TransportRequestImages => Set<TransportRequestImage>();
     public DbSet<SuccessPartner> SuccessPartners => Set<SuccessPartner>();
     public DbSet<FleetVehicle> FleetVehicles => Set<FleetVehicle>();
+    public DbSet<Employee> Employees => Set<Employee>();
+    public DbSet<JobApplication> JobApplications => Set<JobApplication>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

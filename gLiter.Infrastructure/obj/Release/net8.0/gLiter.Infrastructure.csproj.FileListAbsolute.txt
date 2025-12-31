@@ -15,3 +15,4 @@
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/gLiter.Infrastructure.pdb
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/gLiter.Infrastructure.genruntimeconfig.cache
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/ref/gLiter.Infrastructure.dll
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/gLiter.Infrastructure.sourcelink.json

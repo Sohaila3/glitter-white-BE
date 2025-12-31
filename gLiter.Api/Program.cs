@@ -49,18 +49,11 @@ builder.Services.AddJwtAuth(builder.Configuration);
 builder.Services.AddLocalizationSetup();
 builder.Services.AddAuthorization();
 
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowReact", policy =>
-    {
-        policy.WithOrigins(
-            "http://localhost:5173",
-            "http://localhost:3000",
-            "https://yourdomain.com",      // TODO: Replace with your actual domain
-            "https://www.yourdomain.com"   // TODO: Replace with your actual domain
-        )
-        .AllowAnyHeader()
-        .AllowAnyMethod();
+builder.Services.AddCors(options => {
+    options.AddPolicy("AllowAll", policy => {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
     });
 });
 
@@ -72,27 +65,29 @@ app.UseMiddleware<ErrorHandlerMiddleware>();
 
 app.UseRequestLocalization(LocalizationConfig.GetOptions());
 
-// 1. CORS Policy
-app.UseCors("AllowReact");
+// Note: CORS will be applied before mapping controllers
 
 // 2. Swagger (Keep enabled for debugging if needed, or wrap in IsDevelopment)
 app.UseSwagger();
 app.UseSwaggerUI();
 
-// 3. Security & Redirection
+// 5. Apply CORS (Must be before Auth)
+app.UseCors("AllowAll");
+
+// 6. Security & Redirection
 app.UseHttpsRedirection();
 
-// 4. Static Files (Critical for React)
+// 7. Static Files (Critical for React)
 // First, serve default files (index.html) if the root is requested
 app.UseDefaultFiles(); 
 // Then serve the actual static files from wwwroot
 app.UseStaticFiles();
 
-// 5. Authentication & Authorization
+// 8. Authentication & Authorization
 app.UseAuthentication();
 app.UseAuthorization();
 
-// 6. Map API Controllers
+// 9. Map API Controllers
 app.MapControllers();
 
 // 7. Fallback for SPA (React Router)

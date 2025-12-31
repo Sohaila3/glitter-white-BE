@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gLiter.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47f7a0e07ddabf2f56642d5b967d0a7c6bbad272")]
 [assembly: System.Reflection.AssemblyProductAttribute("gLiter.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gLiter.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

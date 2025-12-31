@@ -2,6 +2,7 @@
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/bin/Release/net8.0/appsettings.json
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/bin/Release/net8.0/appsettings.Production.json
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/bin/Release/net8.0/gLiter.Api.staticwebassets.runtime.json
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/bin/Release/net8.0/gLiter.Api
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/bin/Release/net8.0/gLiter.Api.deps.json
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/bin/Release/net8.0/gLiter.Api.runtimeconfig.json
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/bin/Release/net8.0/gLiter.Api.dll
@@ -132,6 +133,7 @@
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/obj/Release/net8.0/gLiter.Api.csproj.CoreCompileInputs.cache
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/obj/Release/net8.0/gLiter.Api.MvcApplicationPartsAssemblyInfo.cs
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/obj/Release/net8.0/gLiter.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/obj/Release/net8.0/gLiter.Api.sourcelink.json
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/obj/Release/net8.0/staticwebassets.build.json
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/obj/Release/net8.0/staticwebassets.development.json
 /Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/obj/Release/net8.0/staticwebassets/msbuild.gLiter.Api.Microsoft.AspNetCore.StaticWebAssets.props
