@@ -1,0 +1,17 @@
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/bin/Release/net8.0/gLiter.Infrastructure.deps.json
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/bin/Release/net8.0/gLiter.Infrastructure.runtimeconfig.json
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/bin/Release/net8.0/gLiter.Infrastructure.dll
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/bin/Release/net8.0/gLiter.Infrastructure.pdb
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/bin/Release/net8.0/gLiter.Core.dll
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/bin/Release/net8.0/gLiter.Core.pdb
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/gLiter.Infrastructure.csproj.AssemblyReference.cache
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/gLiter.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/gLiter.Infrastructure.AssemblyInfoInputs.cache
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/gLiter.Infrastructure.AssemblyInfo.cs
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/gLiter.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/gLiter.I.A3088907.Up2Date
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/gLiter.Infrastructure.dll
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/refint/gLiter.Infrastructure.dll
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/gLiter.Infrastructure.pdb
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/gLiter.Infrastructure.genruntimeconfig.cache
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Infrastructure/obj/Release/net8.0/ref/gLiter.Infrastructure.dll

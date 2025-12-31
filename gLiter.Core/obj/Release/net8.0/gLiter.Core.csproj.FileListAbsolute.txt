@@ -1,0 +1,11 @@
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Core/bin/Release/net8.0/gLiter.Core.deps.json
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Core/bin/Release/net8.0/gLiter.Core.dll
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Core/bin/Release/net8.0/gLiter.Core.pdb
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Core/obj/Release/net8.0/gLiter.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Core/obj/Release/net8.0/gLiter.Core.AssemblyInfoInputs.cache
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Core/obj/Release/net8.0/gLiter.Core.AssemblyInfo.cs
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Core/obj/Release/net8.0/gLiter.Core.csproj.CoreCompileInputs.cache
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Core/obj/Release/net8.0/gLiter.Core.dll
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Core/obj/Release/net8.0/refint/gLiter.Core.dll
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Core/obj/Release/net8.0/gLiter.Core.pdb
+/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Core/obj/Release/net8.0/ref/gLiter.Core.dll

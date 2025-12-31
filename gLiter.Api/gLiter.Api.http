@@ -1,0 +1,6 @@
+@gLiter.Api_HostAddress = http://localhost:5252
+
+GET {{gLiter.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

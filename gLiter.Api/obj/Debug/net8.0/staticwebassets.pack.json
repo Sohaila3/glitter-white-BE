@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/WhatsApp Image 2025-12-21 at 16.49.16 (1).jpeg",
+      "PackagePath": "staticwebassets/images/gallery/WhatsApp Image 2025-12-21 at 16.49.16 (1).jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/WhatsApp Image 2025-12-21 at 16.49.16.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/WhatsApp Image 2025-12-21 at 16.49.16.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter1.wpeg.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/g-liter1.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter10.wpeg.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/g-liter10.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter2.wpeg.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/g-liter2.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter3.wpeg.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/g-liter3.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter4.wpeg.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/g-liter4.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter5.wpeg.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/g-liter5.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter6.wpeg.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/g-liter6.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter7.wpeg.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/g-liter7.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter8.wpeg.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/g-liter8.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/g-liter9.wpeg.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/g-liter9.wpeg.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/istockphoto-2178867633-612x612.jpg",
+      "PackagePath": "staticwebassets/images/gallery/istockphoto-2178867633-612x612.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/istockphoto-912819604-612x612.jpg",
+      "PackagePath": "staticwebassets/images/gallery/istockphoto-912819604-612x612.jpg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/map.png",
+      "PackagePath": "staticwebassets/images/gallery/map.png"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/real photo.jpeg",
+      "PackagePath": "staticwebassets/images/gallery/real photo.jpeg"
+    },
+    {
+      "Id": "/Users/ahmedkhalil/Desktop/gLiter/gLiter backend/gLiter.Api/wwwroot/images/gallery/شعار شركة الجودة العالمية2.png",
+      "PackagePath": "staticwebassets/images/gallery/شعار شركة الجودة العالمية2.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.gLiter.Api.props",
+      "PackagePath": "build\\gLiter.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.gLiter.Api.props",
+      "PackagePath": "buildMultiTargeting\\gLiter.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.gLiter.Api.props",
+      "PackagePath": "buildTransitive\\gLiter.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.gLiter.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
